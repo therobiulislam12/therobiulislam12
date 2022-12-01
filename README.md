@@ -2,7 +2,9 @@
 
 # Welcome to my GitHub Profile 👋
 
-# I'm Robiul Islam
+<h1 align="center">Hi 👋, I'm Robiul Islam</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 
 <p>
 👑 I am Web Developer <br> 
