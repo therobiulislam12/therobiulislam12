@@ -1,6 +1,6 @@
 ![Github Banner](https://raw.githubusercontent.com/robiulislam12/robiulislam12/main/github-banner.png)
 
-# Welcome to my GitHub Profile 👋
+# Welcome to my GitHub Profile
 
 <h1 align="center">Hi 👋, I'm Robiul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
