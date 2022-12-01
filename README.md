@@ -15,15 +15,18 @@ I’m a Front End Web developer and experience with Back-end. I have a passion f
 
 ✅ JavaScript <br>
 ✅ React <br>
+✅ Firebase <br>
 ✅ Node JS <br>
 ✅ REST API <br>
 ✅ MongoDB <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Material UI<br>
-✅ Tailwind<br>
+✅ Tailwind CSS<br>
 ✅ WordPress Customizer<br>
 ✅ PHP ( Basic )<br>
 ✅ Photoshop / XD / Figma <br>
+✅ Redux JS<br>
+✅ Next JS ( Basic )<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robiulislam12&layout=compact&theme=react)
 
