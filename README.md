@@ -9,7 +9,14 @@
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p>
 
-I’m a Front End Web developer and experience with Back-end. I have a passion for learning. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 30th of websites for my clients or my need. I have experienced with Javascript, ReactJS.
+Hello! I'm Robiul Islam, a passionate full-stack developer. I develop websites using MERN technology. I literally spend 8-10 hours every day on Programming and Problem Solving. Programming is my love and passionate. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I love to make the web more open to the world.
+<br/>
+I have one year's experience working as a WordPress customizer and front-end developer at Softo Digital
+Agency. I know how to complete production-level work. My core skills are HTML, CSS, JavaScript, Firebase,
+Chart JS, React JS, Bootstrap, and Tailwind CSS and I am also familiar with Next JS, Redux JS, Mongo dB,
+Mongoose, Node JS, and Express JS. All websites are responsive, which means they look good and work
+perfectly no matter what mobile device they are viewed on. I always look for challenges where I can use my
+potential most and always love to work on cutting-edge technologies.
 
 ## 👨‍💻 Skills & Experiance:
 
