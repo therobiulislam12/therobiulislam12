@@ -5,7 +5,7 @@
 ---
 <br/>
 
-👑 I am Web Developer<br>🌱 I’m currently learning Redux and Next JS<br>💬 Ask me about web technology<br>🖊️ Love to write code <br/> 💻 Most used line of code console.log("hello world")<br/>📧 How to reach me: therobiulislam12@gmail.com.
+👑 I am Web Developer<br>🌱 I’m currently learning Redux and Next JS<br>💬 Ask me about web technology<br>🖊️ Love to write code <br/> 💻 Most used line of code `console.log("hello world")`<br/>📧 How to reach me: therobiulislam12@gmail.com.
 
 # 💫 About Me:
 
