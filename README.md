@@ -18,7 +18,7 @@ Bangladesh in 2021, and now I starting my Bachelor of Science in Geography and E
 
 
 # ☕ Connect with me!: 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wgd06) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__robiul__islam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/therobiulislam12/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:therobiulislam12@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wgd06) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__robiul__islam) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/therobiulislam12/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:therobiulislam12@gmail.com)
 
 # 👨‍💻 Numbers:
 ![](https://github-readme-stats.vercel.app/api?username=robiulislam12&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
