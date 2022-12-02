@@ -18,7 +18,7 @@ Bangladesh in 2021, and now I starting my Bachelor of Science in Geography and E
 
 
 # ☕ Connect with me!: 
-[<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/wgd06)[<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white' alt='instagram' height='40'>](https://instagram.com/__robiul__islam) [<img src='https://img.shields.io/badge/GitHub-%231877F2.svg?logo=Github&logoColor=white' alt='github' height='40'>](https://github.com/robiulislam12) [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://linkedin.com/in/therobiulislam12)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wgd06) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__robiul__islam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/therobiulislam12/) [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:therobiulislam12@gmail.com)
 
 # 👨‍💻 Numbers:
 ![](https://github-readme-stats.vercel.app/api?username=robiulislam12&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
