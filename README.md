@@ -1,3 +1,4 @@
+![Github Banner](https://raw.githubusercontent.com/robiulislam12/robiulislam12/main/github-banner.png)
 
 <h1 align="center">Hi 👋, I'm Robiul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
@@ -8,7 +9,6 @@
 
 👑 I am Web Developer<br>🌱 I’m currently learning Redux and Next JS<br>💬 Ask me about web technology<br>🖊️ Love to write code <br/> 💻 Most used line of code `console.log("hello world")`<br/>📧 How to reach me: therobiulislam12@gmail.com.
 
-![Github Banner](https://raw.githubusercontent.com/robiulislam12/robiulislam12/main/github-banner.png)
 
 # 💫 About Me:
 
