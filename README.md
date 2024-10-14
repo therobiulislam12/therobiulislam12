@@ -1,4 +1,4 @@
-![Github Banner](https://raw.githubusercontent.com/robiulislam12/robiulislam12/main/github-banner.png)
+![Github Banner](https://github.com/therobiulislam12/therobiulislam12/blob/main/github-banner-update-2024.png)
 
 <h1 align="center">Hi 👋, I'm Robiul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
