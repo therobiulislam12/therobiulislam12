@@ -1,19 +1,22 @@
 ![Github Banner](https://github.com/therobiulislam12/therobiulislam12/blob/main/github-banner-update-2024.png)
 
-<h1 align="center">Hi 👋, I'm Robiul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hello 👋,</h1>
+<h3 align="center">I'm a WordPress Plugin Developer Based In Bangladesh.</h3>
 
 
 ---
 <br/>
 
-👑 I am Web Developer<br>🌱 I’m currently learning Redux and Next JS<br>💬 Ask me about web technology<br>🖊️ Love to write code <br/> 💻 Most used line of code `console.log("hello world")`<br/>📧 How to reach me: therobiulislam12@gmail.com.
+👑 I am WordPress Plugin Developer<br>🌱 I’m currently learning WordPress and Next JS<br>💬 Ask me about web technology<br>🖊️ Love to write code <br/> 💻 Most used line of code `console.log("hello world")`<br/>📧 How to reach me: therobiulislam12@gmail.com.
 
 
 # 💫 About Me:
 
-Hello! I'm Robiul Islam, a passionate full-stack developer. I develop websites using MERN technology. Programming is my love and passionate. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I love to make the web more open to the world. I graduated with a twelve grade in Govt. Tolaram College,
-Bangladesh in 2021, and now I starting my Bachelor of Science in Geography and Environment in July 2022.
+I am Robiul Islam, a passionate WordPress Plugin Developer and Elementor expert with over 3 years of hands-on experience, specializing in building custom solutions that elevate websites.
+
+My journey into web development began with a fascination for creating dynamic, user-friendly interfaces, and has since grown into a deep expertise in both backend and frontend development.
+
+With two years of remote work experience for a Malaysian company, I am committed to making the web more accessible and open. I am a PHP lover, an Open-Source enthusiast, and a proud contributor to the Bengali WordPress community.
 
 
 # 💻 Skills & Experiance:
